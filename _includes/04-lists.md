@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# This is a list best restuarnt in Dupont
+- City Light of China
+-Sette Osteria
+-Buffallo Billards
+-Lemon Cuisine
