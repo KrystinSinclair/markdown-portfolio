@@ -1,1 +1,1 @@
-! [Profile picture of author] (Pictures/careefair.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
